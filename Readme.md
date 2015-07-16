@@ -8,9 +8,9 @@ It will tell you how much time has passed since the last Dino attack at the Jura
 
 To install for just your user run the following command
 	
-	```
+```
 	$ ./install_user.sh
-	```
+```
 	
 To install for the system run the following command
 NOTE: Must run with Sudo or Root.
@@ -29,4 +29,5 @@ NOTE: Must run with Sudo or Root.
 	Version 15.0.0-10.11-ec
 	Time since last Dinosuar Attack:
 	8068d 22h 44m 35s
+	user@localhost: ~$
 ```
