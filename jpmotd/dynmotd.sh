@@ -23,7 +23,7 @@ fi
 
 echo -e "Jurassic Park, System Security Interface release 2 (Jurassic World)
 Version 15.0.0-10.11-ec
-Time since last Dinosuar Attack:"
+Time since last Dinosaur Attack:"
 {
  ((d=$TS/(60*60*24)))
  ((h=($TS%(60*60*24))/(60*60)))
