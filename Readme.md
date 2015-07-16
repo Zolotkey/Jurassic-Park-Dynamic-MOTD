@@ -27,7 +27,7 @@ NOTE: Must run with Sudo or Root.
 	Last login: Wed Jul 15 16:38:18 on ttys003
 	Jurassic Park, System Security Interface release 2 (Jurassic World)
 	Version 15.0.0-10.11-ec
-	Time since last Dinosuar Attack:
+	Time since last Dinosaur Attack:
 	8068d 22h 44m 35s
 	user@localhost: ~$
 ```
