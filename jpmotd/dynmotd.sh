@@ -4,6 +4,7 @@
 JP="739850460"
 
 #Jurassic World - Accident Date (Approx.)
+#Comment out the line below if you want to stick with Jurassic Park only
 JW="1451017800"
 
 #Current Date/Time
@@ -22,7 +23,7 @@ else
 fi
 
 echo -e "Jurassic Park, System Security Interface release 2 (Jurassic World)
-Version 15.0.0-10.11-ec
+Version 15.3.0-10.11-ec
 Time since last Dinosaur Attack:"
 {
  ((d=$TS/(60*60*24)))
