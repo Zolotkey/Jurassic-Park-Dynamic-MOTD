@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 
 #Jurassic Park - Needry Disables JP Security (Approx.)
-JP="739850460"
+local JP="739850460"
 
 #Jurassic World - Accident Date (Approx.)
 #Comment out the line below if you want to stick with Jurassic Park only
-JW="1451017800"
+local JW="1451017800"
 
 #Current Date/Time
-CD=`date +%s`
+local CD=`date +%s`
 
 
 #Lets see if we have passed the Jurassic World Events in Real Life
